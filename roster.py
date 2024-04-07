@@ -1,1 +1,4 @@
-# this is a test comment
+ # https://goheels.com/sports/mens-basketball/roster
+
+roster = ["Bacot", "Davis", "Cadeau"]
+print(roster)
